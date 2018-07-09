@@ -1,0 +1,13 @@
+input_file big.net.xml
+number_of_destinations 350
+algorithm_for_destinations random
+algorithm_for_packets random
+N_for_areas 1
+debug_mode 0
+theta 0.8
+parts 30
+max_packet_weight 25
+min_packet_weight 0.1
+
+
+
